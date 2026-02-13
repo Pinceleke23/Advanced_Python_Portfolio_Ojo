@@ -6172,7 +6172,7 @@ display(flann_matches)
 
 ```
 
-## Object_Detection
+## Object Detection
 ```python
 import cv2
 import numpy as np
